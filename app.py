@@ -1,0 +1,2 @@
+# app.py
+AWS_SECRET_ACCESS_KEY = "abc123SECRETKEY"
