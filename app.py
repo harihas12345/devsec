@@ -1,1 +1,1 @@
-token = "ghp_abcdefghijklmnopqrstuvwxyz1234567890ab"
+token = "ghp_abcdefghijklmnopqrstuvwxyz12345678nfgn90ab"
