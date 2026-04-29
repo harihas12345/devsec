@@ -1,1 +1,3 @@
-token = "ghp_abcdefghijklmnopqrstuvwxyz12345678nfgn90ab"
+key = """-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASC...
+-----END PRIVATE KEY-----"""
